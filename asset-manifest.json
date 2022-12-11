@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Playing-with-Lists/static/css/main.76810c2f.css",
-    "main.js": "/Playing-with-Lists/static/js/main.4b15f188.js",
+    "main.js": "/Playing-with-Lists/static/js/main.de6acc00.js",
     "static/js/787.fede7304.chunk.js": "/Playing-with-Lists/static/js/787.fede7304.chunk.js",
     "index.html": "/Playing-with-Lists/index.html",
     "main.76810c2f.css.map": "/Playing-with-Lists/static/css/main.76810c2f.css.map",
-    "main.4b15f188.js.map": "/Playing-with-Lists/static/js/main.4b15f188.js.map",
+    "main.de6acc00.js.map": "/Playing-with-Lists/static/js/main.de6acc00.js.map",
     "787.fede7304.chunk.js.map": "/Playing-with-Lists/static/js/787.fede7304.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.76810c2f.css",
-    "static/js/main.4b15f188.js"
+    "static/js/main.de6acc00.js"
   ]
 }
