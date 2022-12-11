@@ -5,12 +5,14 @@ import './App.css';
 
 function Entry(props) {
 
+    const asd = props.item.Status
+
     return (
         <Tr>
             <Td>{props.item.FName}</Td>
             <Td>{props.item.LName}</Td>
             <Td>{props.item.Gender}</Td>
-            <Td className={props.item.Status ? "trueColor" : "falseColor"}>True</Td>
+            <Td className={props.item.Status ? "trueColor" : "falseColor"}>{props.item.Status ? "True" : "False"}</Td>
         </Tr>
     )
 }
